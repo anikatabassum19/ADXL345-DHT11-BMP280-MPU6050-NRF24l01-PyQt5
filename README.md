@@ -1,8 +1,8 @@
-# Wireless Sensor Data Transmission using NRF24l01
+# Wireless Sensor Data Transmission using NRF24l01 and Displaying In PyQt5 Desktop App
 
 ![Arduino Logo](https://www.arduino.cc/en/uploads/Arduino_logo.svg)
 
-Welcome to the Wireless Sensor Data Transmission project using NRF24l01 modules for Arduino! This project demonstrates how to establish a wireless communication link between two Arduino boards, enabling seamless transmission of sensor data in real-time.
+Welcome to the Wireless Sensor Data Transmission project using NRF24l01 modules for Arduino! This project demonstrates how to establish a wireless communication link between two Arduino boards, enabling seamless transmission of sensor data in real-time and showing it in PyQt5 Desktop App
 
 ## Table of Contents
 
